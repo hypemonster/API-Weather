@@ -13,7 +13,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     /*background: linear-gradient(gray, black);*/
-    background: url(/src/images/image.gif);
+    background: url(image.gif);
     background-size: cover;
 }
 
